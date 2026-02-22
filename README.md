@@ -1,4 +1,5 @@
 # Customer Shopping Behavior Analysis
+<img width="1138" height="723" alt="image" src="https://github.com/user-attachments/assets/52206411-6e5d-4bb9-a9e1-5e5efefc5357" />
 
 ## Overview
 
